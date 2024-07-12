@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj": {}
+    "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj": {
+    "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj",
+        "projectUniqueName": "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj",
         "projectName": "First",
-        "projectPath": "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj",
+        "projectPath": "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\First.csproj",
         "packagesPath": "C:\\Users\\Nathan Hanne\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\obj\\",
+        "outputPath": "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\First\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nathan Hanne\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
